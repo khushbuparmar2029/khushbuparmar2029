@@ -26,7 +26,7 @@ Python Backend Developer with **4+ years of experience** in backend development,
 ### 🔹 Data Journey Portfolio
 * **Tech Stack:** Python, Pandas, SQL, ETL Processes, Jupyter Notebooks
 * **Core Focus:** This is my dedicated playground for daily data learning, building analytical pipelines, and manipulating data structures.
-* [🔗 View My Code Repository]((https://github.com/khushbuparmar2029/data-journey-khushbu))
+* [🔗 View My Code Repository](https://github.com/khushbuparmar2029/data-journey-khushbu)
 
 ### 🔹 Placement Management System
 * **Tech Stack:** Python, PostgreSQL, Odoo ORM, XML
