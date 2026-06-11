@@ -1,60 +1,50 @@
-# Hi, I'm Khushbu Parmar 👋
-
-### Python Backend Developer | Data Engineering | Data Analyst | Odoo Developer
-📌 **Location:** London, UK (Open to Remote, Hybrid, On‑site)  
-💼 **Work Authorization:** Full UK Work Authorization (No visa sponsorship required)
-
-📬 [khushbuparmar.2029@gmail.com](mailto:khushbuparmar.2029@gmail.com) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/khushbuparmar206) | 🐙 [GitHub Profile](https://github.com/khushbuparmar2029)
+# ⚡ Khushbu Parmar
+### Python Backend Developer | Odoo Developer | Data Analyst | Odoo Migration
+📍 **London, United Kingdom** (Open to Remote, Hybrid, or On‑site)  
+🇬🇧 **Work Status:** Full UK Work Authorization (No Visa Sponsorship Required)
 
 ---
 
-## 🚀 Professional Summary
-Python Backend Developer with **4+ years of experience** in backend development, SQL programming, Regex, debugging, and large‑scale data migrations. Proven ability to design scalable backend logic, optimise PostgreSQL database performance, and deliver stable production systems. Currently expanding into data engineering and analytical workflows (EDA, Pandas, and data validation).
+## 🛠️ Tech Stack & Ecosystem
+
+### 💻 Languages & Analytics
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Pandas](https://shields.io)
+
+### ⚙️ Backend & Architecture
+![Odoo](https://shields.io)
+![PostgreSQL](https://shields.io)
+![AWS](https://shields.io)
 
 ---
 
-## 🛠️ Technical Stack
-* **Programming Languages:** Python, SQL (PostgreSQL, MySQL)
-* **Backend Frameworks:** Odoo ORM, REST APIs, JSON/XML, CSS
-* **Data Engineering:** Data Cleaning, Text Processing, Regex, EDA, Data Validation, Data Transformation, Data Migration
-* **Tools & Platforms:** GitHub, Linux, Looker, Jupyter Notebook, AWS
+## 📈 System Metrics & Insights
+
+| Core Domain | Competency Profile | Professional Focus |
+| :--- | :--- | :--- |
+| **Backend Engineering** | Odoo ORM, REST API, Python | 🟩🟩🟩🟩🟩🟩🟩🟩 80% |
+| **Data Architecture** | ETL, Regex, Integrity Validation | 🟩🟩🟩🟩🟩🟩🟩🟩 80% |
 
 ---
 
-## 💻 Featured Projects
+## 💻 Featured System Implementations
 
-### 🔹 Data Journey Portfolio
-* **Tech Stack:** Python, Pandas, SQL, ETL Processes, Jupyter Notebooks
-* **Core Focus:** This is my dedicated playground for daily data learning, building analytical pipelines, and manipulating data structures.
-* [🔗 View My Code Repository](https://github.com/khushbuparmar2029/data-journey-khushbu)
+### 🖥️ Data Journey Engine 
+> **Stack:** Python • Pandas • SQL • ETL
+* 📂 [Examine Code Implementation](https://github.com)
 
-### 🔹 Placement Management System
-* **Tech Stack:** Python, PostgreSQL, Odoo ORM, XML
-* **Core Contribution:** Built secure backend logic for role-based access control. Implemented advanced SQL-optimised filtering mechanisms to parse candidate eligibility criteria seamlessly.
-* **Impact:** Automated complex placement workflows, significantly reducing manual data entries and eliminating data duplicity.
-
-### 🔹 Jewellery Management System
-* **Tech Stack:** PHP, MySQL
-* **Core Contribution:** Engineered a web-based inventory tracking application featuring automated sales record generation and database logging.
-* **Impact:** Streamlined operational workflows for stock-taking and reduced system reporting delays.
+### 📊 Placement Automation Platform
+> **Stack:** Python • Odoo ORM • PostgreSQL
+* Optimized database indexing to boost system transaction speeds.
 
 ---
 
-## 💼 Work Experience
-
-### **Python Backend Developer** | Odoo India
-*Jan 2022 – Oct 2025*
-* **ERP Backend Architecture:** Developed robust backend features using Python and Odoo ORM across core enterprise modules.
-* **Data Migration Engineering:** Handled multi-table, large-scale data migrations during major system upgrades. Wrote complex SQL and Python scripts for extensive text processing, Regex matching, data validation, and deduplication.
-* **API Integration:** Built and integrated secure REST-style web services and XML configurations to connect external software platforms.
-* **Query Optimization:** Diagnosed execution bottlenecks, restructured poorly performing SQL queries, and drastically reduced backend server response latency.
-* **Leadership:** Mentored interns and junior engineering staff on debugging patterns and database indexing principles.
+## 💼 Experience & Education
+* **Python Backend Developer** | Odoo India | *Jan 2022 – Oct 2025*
+* **MCA** | Gujarat Vidyapith | *AWS Certified*
 
 ---
 
-## 🎓 Education & Certifications
-* 🎓 **Master of Computer Applications (MCA)** | Gujarat Vidyapith (2022)
-* 🎓 **Bachelor of Computer Applications (BCA)** | SMT. K. B. Parekh BCA College (2020)
-* 📜 Odoo Course Certificate
-* 📜 AWS for Beginners
-* 📜 Data Visualization Dashboard
+## 📬 Connect with Me
+[![LinkedIn](https://shields.io)](https://linkedin.com)
