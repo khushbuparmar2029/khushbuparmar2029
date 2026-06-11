@@ -4,7 +4,7 @@
 📌 **Location:** London, UK (Open to Remote, Hybrid, On‑site)  
 💼 **Work Authorization:** Full UK Work Authorization (No visa sponsorship required)
 
-📬 [khushbuparmar.2029@gmail.com](mailto:khushbuparmar.2029@gmail.com) | 🔗 [LinkedIn Profile](www.linkedin.com/in/khushbuparmar206) | 🐙 [GitHub Profile](https://github.com/khushbuparmar2029)
+📬 [khushbuparmar.2029@gmail.com](mailto:khushbuparmar.2029@gmail.com) | 🔗 [LinkedIn Profile](https://www.linkedin.com/in/khushbuparmar206) | 🐙 [GitHub Profile](https://github.com/khushbuparmar2029)
 
 ---
 
