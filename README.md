@@ -1,6 +1,6 @@
 # Hi, I'm Khushbu Parmar 👋
 
-### Python Backend Developer | Data Engineering | Data Analyst
+### Python Backend Developer | Data Engineering | Data Analyst | Odoo Developer
 📌 **Location:** London, UK (Open to Remote, Hybrid, On‑site)  
 💼 **Work Authorization:** Full UK Work Authorization (No visa sponsorship required)
 
